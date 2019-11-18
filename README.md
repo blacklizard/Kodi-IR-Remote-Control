@@ -1,6 +1,6 @@
 # IR Kodi Remote Control
 
-Custom IR remote control for Kodi running on RPI
+Custom IR remote control for Kodi running on RPI using Arduino Pro Micro
 
 ## Supported Device
 1. [Universal Astro Remote](https://www.mrdiy.com.my/universal-remote-control-9022350-001001)
