@@ -22,3 +22,8 @@ Custom IR remote control for Kodi running on RPI using Arduino Pro Micro
 12. Exit
 13. Fast forward
 14. Rewind
+
+## Dependency
+
+1. [HID-Project](https://github.com/NicoHood/HID)
+2. [IRremote](https://github.com/z3t0/Arduino-IRremote)
